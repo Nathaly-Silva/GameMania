@@ -1,27 +1,27 @@
-# AngularGm
+Projeto curso Full Stack Senai-SP 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
+Front-end
 
-## Development server
+O projeto tem como objetivo, criar um site e-commerci para loja Game Mania, assim ampliando as vendas e atingindo o mundo gamer.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+https://user-images.githubusercontent.com/88723553/227062888-021f9bf8-3db1-49c5-a837-cd509d8937f5.mp4
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Desenvolvendo o projeto........
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Esboço inicial](https://user-images.githubusercontent.com/88723553/227058633-39b0ba76-f0a7-41fa-83ae-c60a0535345c.png)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://user-images.githubusercontent.com/88723553/227063473-511a93e4-6592-4052-abe0-8a9dfce48fac.mp4
+
+
+
+Apresentação........
+
+https://user-images.githubusercontent.com/88723553/227058707-dc07d343-468a-45de-8b40-246a83a0dbac.mp4
+
