@@ -1,4 +1,7 @@
-Projeto curso Full Stack Senai-SP 
+GAME MANIA 
+
+
+Curso Full Stack Senai-SP 
 
 Front-end
 
@@ -21,7 +24,10 @@ https://user-images.githubusercontent.com/88723553/227063473-511a93e4-6592-4052-
 
 
 
+
 Apresentação........
+
+
 
 https://user-images.githubusercontent.com/88723553/227058707-dc07d343-468a-45de-8b40-246a83a0dbac.mp4
 
